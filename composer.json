@@ -1,0 +1,19 @@
+{
+    "name": "welcomattic/dagger-sdk-php",
+    "type": "library",
+    "require": {
+        "gmostafa/php-graphql-client": "^1.13"
+    },
+    "autoload": {
+        "psr-4": {
+            "Welcomattic\\DaggerPHP\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mathieu Santostefano",
+            "email": "msantostefano@protonmail.com"
+        }
+    ]
+}
